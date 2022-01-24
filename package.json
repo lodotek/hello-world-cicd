@@ -15,10 +15,10 @@
         "ArgoCD",
         "Github-Actions"
     ],
-    "author": "Sadok Ferjani <sadoknet@gmail.com>",
+    "author": "Chris Montes <archivebox.cm+github@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git://github.com/sadok-f/hello-world-cicd"
+        "url": "git://github.com/lodotek/hello-world-cicd"
     }
 }
